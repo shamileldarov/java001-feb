@@ -1,5 +1,5 @@
 public class Shamil {
-    public static void main(String[] args) {
+    public static void shamil(String[] args) {
         System.out.println("Hello world");
     }
 }
